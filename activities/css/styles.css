@@ -1,0 +1,13 @@
+img {
+  width: 50%;
+  height: 10%;
+}
+h1 {
+  color: darkred;
+}
+body {
+  background-color: black;
+  color: white;
+  font-style: italic;
+  text-align: center;
+}
